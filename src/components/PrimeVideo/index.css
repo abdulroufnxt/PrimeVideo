@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.overallCon {
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.amazonImage {
+  width: 100%;
+  height: 350px;
+}
+
+.bottomCon {
+  padding: 40px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.headings {
+  color: white;
+  font-size: 20px;
+}
+
+.margine {
+  margin-bottom: 90px;
+}

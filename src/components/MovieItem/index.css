@@ -1,0 +1,41 @@
+/* Write your CSS here */
+
+.image {
+  width: 250px;
+  border-radius: 10px;
+}
+
+.ccc {
+  text-align: center;
+  width: 100%;
+}
+
+.popupCon {
+  background-color: white;
+  height: 500px;
+  width: 750px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
+
+.closeButton {
+  align-self: flex-end;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  border-style: none;
+}
+
+.clo {
+  border: none;
+}
+
+.pop {
+  cursor: pointer;
+}
+
+.vPlayer {
+  width: 90%;
+}
